@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{59A10DAC-27C1-9EED-5B5E-985DD002A767}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UI/Positioning.cs" Line="61" Column="10" />
+      <File FileName="Assets/Scripts/UI/finalTime.cs" Line="11" Column="19" />
+      <File FileName="Assets/Scripts/UI/timerText.cs" Line="16" Column="53" />
+      <File FileName="Assets/Scripts/UI/MainMenu.cs" Line="35" Column="1" />
+      <File FileName="Assets/Scripts/UI/ControlsMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MyCamera2DFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Respawn.cs" Line="27" Column="58" />
+      <File FileName="Assets/Scripts/Checkpoint.cs" Line="16" Column="85" />
+      <File FileName="Assets/Scripts/ML-agents and Debugging/MyHyperDashAgent.cs" Line="176" Column="83" />
+      <File FileName="Assets/Scripts/ML-agents and Debugging/MyAcademy.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/UI/FinishMenuButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/2D/Scripts/Platformer2DUserControl.cs" Line="41" Column="1" />
+      <File FileName="Assets/Scripts/Countdown.cs" Line="27" Column="76" />
+      <File FileName="Assets/ML-Agents/Scripts/Brain.cs" Line="248" Column="1" />
+      <File FileName="Assets/ML-Agents/Examples/SharedAssets/Scripts/RayPerception.cs" Line="31" Column="44" />
+      <File FileName="Assets/Scripts/UI/PauseMenuButtons.cs" Line="21" Column="5" />
+      <File FileName="Assets/Scripts/Fullscreen.cs" Line="11" Column="49" />
+      <File FileName="Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
